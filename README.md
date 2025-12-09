@@ -1,7 +1,7 @@
 # Solana Memecoin Analytics Microservice
 
 A real-time analytics microservice designed for Solana memecoins.  
-It exposes REST and WebSocket APIs for live metrics, holder insights, and continuous token monitoring — all backed by a scalable, containerized architecture.
+It exposes REST and WebSocket APIs for live metrics, holder insights, and continuous token monitoring. These are all backed by a scalable, containerized architecture.
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com/)
